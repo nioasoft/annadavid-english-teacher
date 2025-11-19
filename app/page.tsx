@@ -1,6 +1,6 @@
-import { redirect } from 'next/navigation';
+import { permanentRedirect } from 'next/navigation';
 
 export default async function Home() {
-  // Redirect to English version
-  redirect('/en');
+  // Permanent redirect to English version for SEO
+  permanentRedirect('/en');
 }
