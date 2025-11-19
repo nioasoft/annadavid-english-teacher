@@ -1,5 +1,5 @@
 import { ReactNode } from 'react';
-import { useTranslations } from 'next-intl';
+import { getTranslations } from 'next-intl/server';
 import { locales } from '@/lib/i18n';
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
@@ -18,7 +18,7 @@ export default async function LocaleLayout({
   params
 }: LocaleLayoutProps) {
   const { locale } = await params;
-  const t = useTranslations('Navigation');
+  const t = await getTranslations({ locale, namespace: 'Navigation' });
 
   const navigation = {
     home: `/${locale}`,

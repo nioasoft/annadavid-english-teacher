@@ -1,11 +1,13 @@
-import { getTranslations } from 'next-intl/server';
+'use client';
+
+import { useTranslations } from 'next-intl';
 import Section from '@/components/ui/Section';
 import Timeline from '@/components/ui/Timeline';
 import Card from '@/components/ui/Card';
 import Button from '@/components/ui/Button';
 
-export default async function ProcessPage() {
-  const t = await getTranslations();
+export default function ProcessPage() {
+  const t = useTranslations();
 
   const steps = t.raw('Process.steps').map((step: any) => ({
     ...step,

@@ -1,4 +1,6 @@
-import { getTranslations } from 'next-intl/server';
+'use client';
+
+import { useTranslations } from 'next-intl';
 import Section from '@/components/ui/Section';
 import Card from '@/components/ui/Card';
 import { BookOpen, TrendingUp, Plane, Briefcase, Award, Clock } from 'lucide-react';
@@ -35,8 +37,8 @@ function ServiceCard({ icon, title, whatYouWillLearn, idealFor }: ServiceCardPro
   );
 }
 
-export default async function ServicesPage() {
-  const t = await getTranslations();
+export default function ServicesPage() {
+  const t = useTranslations();
 
   return (
     <>

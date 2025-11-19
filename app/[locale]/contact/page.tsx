@@ -1,10 +1,12 @@
-import { getTranslations } from 'next-intl/server';
+'use client';
+
+import { useTranslations } from 'next-intl';
 import Section from '@/components/ui/Section';
 import ContactForm from '@/components/sections/ContactForm';
 import React from 'react';
 
-export default async function ContactPage() {
-  const t = await getTranslations();
+export default function ContactPage() {
+  const t = useTranslations();
 
   return (
     <>

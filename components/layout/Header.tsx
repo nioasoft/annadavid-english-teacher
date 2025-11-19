@@ -32,8 +32,14 @@ export default function Header({ navigation, currentLocale }: HeaderProps) {
   return (
     <header className="bg-white shadow-sm sticky top-0 z-50">
       <div className="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
-        <Link href={navigation.home} className="text-xl font-bold text-text-primary">
-          Anna David | English Teacher
+        <Link href={navigation.home} className="block">
+          <div className="relative h-12 w-48">
+            <img
+              src="/images/logo.png"
+              alt="Anna David English Teacher"
+              className="h-full w-auto object-contain"
+            />
+          </div>
         </Link>
 
         <nav className="hidden md:flex items-center space-x-8">
