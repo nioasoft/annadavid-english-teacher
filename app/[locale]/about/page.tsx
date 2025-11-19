@@ -1,11 +1,9 @@
-'use client';
-
-import { useTranslations } from 'next-intl';
+import { getTranslations } from 'next-intl/server';
 import Section from '@/components/ui/Section';
 import Card from '@/components/ui/Card';
 
-export default function AboutPage() {
-  const t = useTranslations();
+export default async function AboutPage() {
+  const t = await getTranslations();
 
   // Format description that contains newlines and bulleted items
   const formatDescription = (description: string) => {

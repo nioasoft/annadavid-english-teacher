@@ -1,6 +1,4 @@
-'use client';
-
-import { useTranslations } from 'next-intl';
+import { getTranslations } from 'next-intl/server';
 import Hero from '@/components/ui/Hero';
 import Section from '@/components/ui/Section';
 import IconCard from '@/components/ui/IconCard';
@@ -8,8 +6,8 @@ import Button from '@/components/ui/Button';
 import { User, Video, Globe } from 'lucide-react';
 import { Briefcase, Plane, GraduationCap, TrendingUp } from 'lucide-react';
 
-export default function HomePage() {
-  const t = useTranslations();
+export default async function HomePage() {
+  const t = await getTranslations();
 
   return (
     <>
