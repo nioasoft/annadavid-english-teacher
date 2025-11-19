@@ -1,0 +1,224 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "process": "Process",
+    "contact": "Contact"
+  },
+  "LanguageSwitcher": {
+    "english": "EN",
+    "hebrew": "HE"
+  },
+  "Hero": {
+    "title": "Personalized English Learning, Just For You",
+    "subtitle": "Master English with one-on-one virtual lessons designed around your goals, schedule, and learning style. CELTA-certified instruction that makes learning engaging and effective.",
+    "cta_primary": "Schedule Free Consultation",
+    "cta_secondary": "Learn My Approach"
+  },
+  "ValuePropositions": {
+    "personalized": {
+      "title": "1-on-1 Personalized Learning",
+      "description": "Every lesson is designed specifically for you. I create a custom curriculum based on your goals, interests, and learning style—no generic textbooks, just materials that matter to you."
+    },
+    "virtual": {
+      "title": "Virtual Convenience",
+      "description": "Learn from anywhere with flexible scheduling. All you need is an internet connection and a device. No commute, no fixed location—just effective learning that fits your life."
+    },
+    "realworld": {
+      "title": "Real-World English",
+      "description": "Focus on practical, everyday English you'll actually use. Whether it's for work, travel, or daily conversations, you'll learn skills that make an immediate difference in your life."
+    }
+  },
+  "TargetAudiences": {
+    "business": {
+      "title": "Business Professionals",
+      "description": "Excel in your career with professional English skills. Master presentations, email writing, meetings, and negotiations to communicate confidently in any business setting."
+    },
+    "travel": {
+      "title": "Travel Enthusiasts",
+      "description": "Travel with confidence. Learn conversational English for navigating airports, booking hotels, ordering at restaurants, and connecting with people around the world."
+    },
+    "testprep": {
+      "title": "Test Preparation",
+      "description": "Ace your psychometric exam with targeted English instruction. Build reading comprehension, academic vocabulary, and test-taking strategies for university success."
+    },
+    "general": {
+      "title": "General English Improvement",
+      "description": "Strengthen your overall English skills. Improve grammar, expand vocabulary, boost speaking confidence, and enhance reading and writing abilities at your own pace."
+    }
+  },
+  "CTA": {
+    "title": "Ready to Start Your English Journey?",
+    "description": "Let's talk about your goals and create a learning plan that works for you. Schedule a free 20-minute consultation—no commitment required.",
+    "button": "Schedule Free Consultation"
+  },
+  "About": {
+    "title": "About Anna",
+    "subtitle": "Your Guide to Confident English",
+    "mainStory": {
+      "paragraph1": "I'm Anna David, and I bring a lifelong passion for languages and teaching to every lesson.",
+      "paragraph2": "Born and raised in the United States, I developed a deep love for reading and languages from an early age. I studied history, foreign languages (French, Latin, Russian, and Spanish), and creative writing at the University of Memphis, while also volunteering to teach English to new immigrants.",
+      "paragraph3": "After making aliyah to Israel in 2019, I pursued my dream of becoming a professional English teacher. In January 2025, I completed the prestigious CELTA certification (Certificate in English Language Teaching to Adults), where I was mentored by experienced EFL teachers and taught students from around the world.",
+      "highlights": "During my training, I received high marks for:\n- Creating authentic, engaging lesson materials\n- Building strong connections with students\n- Designing relevant, practical lessons that make learning enjoyable",
+      "paragraph4": "Now, I'm dedicated to helping you achieve your English goals through personalized, one-on-one instruction tailored to your specific needs and learning style."
+    },
+    "philosophy": {
+      "title": "Teaching Philosophy",
+      "content": "Every student is unique, with their own goals, learning style, and pace. That's why I don't believe in one-size-fits-all teaching. Instead, I create a completely personalized learning experience for each student, using materials and methods that are relevant to your life and interests. Whether you're preparing for a business presentation, planning a trip abroad, or simply want to feel more confident speaking English, we'll work together to get you there."
+    },
+    "qualifications": {
+      "title": "Qualifications",
+      "items": [
+        "CELTA Certified (2025)",
+        "BA in History & Languages, University of Memphis",
+        "Native English Speaker (US)",
+        "5+ years teaching experience"
+      ]
+    }
+  },
+  "Services": {
+    "title": "How I Can Help",
+    "subtitle": "Tailored English Instruction for Your Goals",
+    "business": {
+      "title": "Business English",
+      "whatYouWillLearn": [
+        "Write clear, professional emails and reports",
+        "Deliver confident presentations",
+        "Participate effectively in meetings",
+        "Navigate negotiations and business discussions",
+        "Build industry-specific vocabulary"
+      ],
+      "idealFor": "Professionals, managers, entrepreneurs, and anyone advancing their career"
+    },
+    "travel": {
+      "title": "Travel English",
+      "whatYouWillLearn": [
+        "Hold everyday conversations with confidence",
+        "Book transportation and accommodations",
+        "Order at restaurants and cafes",
+        "Ask for directions and help",
+        "Handle common travel situations"
+      ],
+      "idealFor": "Travelers planning international trips and anyone wanting to explore the world"
+    },
+    "testprep": {
+      "title": "Test Preparation (Psychometric)",
+      "whatYouWillLearn": [
+        "Reading comprehension strategies",
+        "Academic vocabulary and terminology",
+        "Time management techniques",
+        "Test-taking strategies",
+        "Critical analysis skills"
+      ],
+      "idealFor": "Students preparing for university entrance exams"
+    },
+    "general": {
+      "title": "General English Improvement",
+      "whatYouWillLearn": [
+        "Master English grammar fundamentals",
+        "Expand your vocabulary naturally",
+        "Improve speaking fluency and pronunciation",
+        "Strengthen reading comprehension",
+        "Develop writing skills"
+      ],
+      "idealFor": "Anyone wanting to strengthen their overall English abilities"
+    },
+    "approach": {
+      "title": "What Makes My Approach Different",
+      "items": [
+        "✓ 100% Personalized Curriculum - Every lesson designed for your specific needs",
+        "✓ Flexible Virtual Scheduling - Learn when and where it works for you",
+        "✓ Real-World Materials - Practical content you'll actually use",
+        "✓ Ongoing Progress Tracking - Clear goals and measurable results",
+        "✓ Supportive Environment - Patient, encouraging instruction that builds confidence"
+      ]
+    }
+  },
+  "Process": {
+    "title": "How We'll Work Together",
+    "subtitle": "A Clear Path to English Confidence",
+    "steps": [
+      {
+        "number": 1,
+        "title": "Free Consultation (20-30 minutes)",
+        "description": "Discuss your English goals and needs\nGet to know each other\nAsk any questions you have\nNo commitment or payment required"
+      },
+      {
+        "number": 2,
+        "title": "Level Assessment",
+        "description": "Evaluate your current English proficiency\nIdentify strengths and areas for improvement\nUnderstand your learning style and preferences\nDetermine the best approach for you"
+      },
+      {
+        "number": 3,
+        "title": "Custom Learning Plan",
+        "description": "Design a personalized curriculum just for you\nSet clear, achievable goals\nChoose lesson frequency and schedule\nSelect materials relevant to your interests"
+      },
+      {
+        "number": 4,
+        "title": "Begin Learning",
+        "description": "Weekly virtual lessons (or your preferred frequency)\nInteractive, engaging sessions\nPractical homework and exercises\nContinuous support between lessons"
+      },
+      {
+        "number": 5,
+        "title": "Track Progress & Adapt",
+        "description": "Regular feedback on your development\nAdjust the learning plan as needed\nCelebrate milestones and achievements\nEvolve lessons as your skills grow"
+      }
+    ],
+    "expectations": {
+      "title": "My Expectations from Students",
+      "intro": "Learning a language is a partnership. To get the most from our lessons, I ask that you:",
+      "items": [
+        "✓ Come Prepared - Arrive ready to engage and participate actively",
+        "✓ Practice Consistently - Complete exercises and practice between lessons",
+        "✓ Be Patient - Progress takes time; trust the process",
+        "✓ Communicate Openly - Tell me what's working and what isn't",
+        "✓ Use English Daily - Try to practice outside our lessons when possible"
+      ],
+      "closing": "I'm here to guide, support, and challenge you—but your commitment is what makes real progress possible. Together, we'll achieve your English goals."
+    }
+  },
+  "Contact": {
+    "title": "Let's Start Your English Journey",
+    "subtitle": "Schedule a free consultation today and take the first step toward confident English",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "language": "Preferred Language",
+      "message": "Tell me about your English goals...",
+      "submit": "Send Message"
+    },
+    "alternative": {
+      "title": "Prefer to Talk First?",
+      "description": "Schedule a free 20-minute video call to discuss your goals with no commitment.",
+      "email": "miss.anna.davidi@gmail.com",
+      "whatsapp": "053-440-6993"
+    }
+  },
+  "Footer": {
+    "copyright": "© 2025 Anna David English Teacher. All rights reserved."
+  },
+  "SEO": {
+    "home": {
+      "title": "Anna David | English Teacher - Personalized 1-on-1 Lessons",
+      "description": "CELTA-certified English teacher offering personalized virtual lessons for business professionals, travelers, and test preparation."
+    },
+    "about": {
+      "title": "About Anna David - CELTA-Certified English Teacher",
+      "description": "Meet Anna David, CELTA-certified English teacher with a passion for personalized instruction. Native speaker specializing in one-on-one virtual lessons for adults."
+    },
+    "services": {
+      "title": "English Instruction Services - Anna David",
+      "description": "Explore personalized English instruction: Business English, Travel English, Psychometric test preparation, and general improvement. Virtual lessons tailored to your goals."
+    },
+    "process": {
+      "title": "My Teaching Process - Anna David English Teacher",
+      "description": "Learn how we'll work together: from free consultation to personalized learning plan. Discover my teaching process and what to expect from our lessons."
+    },
+    "contact": {
+      "title": "Contact Anna David - Schedule Free English Consultation",
+      "description": "Ready to improve your English? Schedule a free consultation with Anna David, CELTA-certified teacher. Start your personalized learning journey today."
+    }
+  }
+}
